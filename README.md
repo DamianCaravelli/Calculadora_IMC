@@ -1,2 +1,2 @@
-# Calculadora_IMC_TPFinalFC
+# Calculadora_IMC
 App para calcular Índice de masa corporal (IMC)
